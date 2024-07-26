@@ -16,5 +16,5 @@ echo Hello World! > testfile.txt
 cat testfile.txt
 
 # List the files in Lab1_Dir
-ls 
+ls -l 
 
